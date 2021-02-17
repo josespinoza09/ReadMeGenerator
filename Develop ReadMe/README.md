@@ -1,8 +1,8 @@
-# **dfadsf**  
+# **My ReadMe **  
   ![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
 ## **Description**
-dfga
+This is the description 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,16 +12,16 @@ dfga
 
 ## **Installation**
 To install necessary dependencies, run the following command:
-> g
+> npm install
 
 ## **Usage** 
-gf
+Steps to use my app
 
 ## **Credits**
-d
+Jose Espinoza
 
 ## **Test**
-gdg
+npm test
 
 ## **License**
 
@@ -49,5 +49,5 @@ SOFTWARE.
 
 ## **Questions**
 For more information Contact me:  
-Github: github.com/jose 
-Email: sdf
+Github: github.com/josespinoza09 
+Email: jose20019004@gmail.com
