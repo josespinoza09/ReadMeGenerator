@@ -16,3 +16,5 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 Video: https://drive.google.com/file/d/1JYppoRMFkomrXtonRgKXuFY1lm4_EHE-/view
+
+![Video Demo](Assets/ReadMe.gif?raw=true)
